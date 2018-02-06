@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="fail_to_connect_to_server">Fail to connect to server</string>
+    <string name="no_internet_connections">No internet connection. Please try again</string>
+</resources>
